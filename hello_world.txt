@@ -1,1 +1,2 @@
 Adding something there!
+Adding again because I want to test "git add ."
